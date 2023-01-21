@@ -1,0 +1,20 @@
+/*
+ * Things can done here:
+ * 	Add nodes or properties to root node
+ * 	Delete nodes or properties
+*/
+
+/ {
+	utags: utags { };
+	hw: hw { };
+	tboard_thermistor1: thermal-ntc1 { };
+	tboard_thermistor2: thermal-ntc2 { };
+	tboard_thermistor3: thermal-ntc3 { };
+	tboard_thermistor4: thermal-ntc4 { };
+	tboard_thermistor5: thermal-ntc5 { };
+	tboard_thermistor6: thermal-ntc6 { };
+	tboard_thermistor7: thermal-ntc7 { };
+	charge_leds: charge_leds{ };
+	moto_chg_tcmd: moto_chg_tcmd { };
+	flashlights_devonf: flashlights_devonf { };
+};
